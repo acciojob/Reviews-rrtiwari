@@ -1,12 +1,14 @@
-h1 {
-    color: #27aedb;
+h2{
     text-align: center;
-    }
-    
+    margin-bottom: 20px;
+}
+img{
+    width:300px;
+    height:300px;
+}  
 
 button{
     color: #27aedb;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+    padding:5px;
+    margin:3px;
 }
